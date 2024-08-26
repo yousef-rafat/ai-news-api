@@ -1,0 +1,17 @@
+{
+  "name": "ai-news-api",
+  "version": "1.0.0",
+  "description": "Investing news API",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Yousef Gamaleldin",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.5",
+    "cheerio": "^1.0.0",
+    "express": "^4.19.2",
+    "nodemon": "^3.1.4"
+  }
+}
